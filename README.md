@@ -14,4 +14,4 @@ The rest of the settings work about the same as the Array modifier in Blender
 This Add-on creates instances of an object, unless the object has shape keys in which it will create linked copies
 
 
-Credits: Claude for coding, ARC9 for the base plugin on BlenderArtists
+Credits: Claude for coding, ARC9 for the base Add-on on BlenderArtists
